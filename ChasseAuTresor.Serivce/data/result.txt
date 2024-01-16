@@ -1,0 +1,11 @@
+# {C comme Carte} - {Nb. de case en largeur} - {Nb. de case en hauteur}
+C - 3 - 4
+# {M comme Montagne} - {Axe horizontal} - {Axe vertical}
+# {T comme Trésor} - {Axe horizontal} - {Axe vertical} - {Nb. de trésors restants}
+# {A comme Aventurier} - {Nom de l’aventurier} - {Axe horizontal} - {Axe vertical} - {Orientation} - {Nb.trésors ramassés}
+M - 1 - 0
+M - 2 - 1
+T - 0 - 3 - 0
+A - Lara - 0 - 3 - S - 3
+T - 1 - 3 - 2
+
